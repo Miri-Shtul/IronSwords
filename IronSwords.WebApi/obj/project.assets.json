@@ -4582,19 +4582,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\MiriS\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MiriS\\Desktop\\.NET\\IronSwords\\IronSwords.WebApi\\IronSwords.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\IronSwords\\IronSwords.WebApi\\IronSwords.WebApi.csproj",
       "projectName": "IronSwords.WebApi",
-      "projectPath": "C:\\Users\\MiriS\\Desktop\\.NET\\IronSwords\\IronSwords.WebApi\\IronSwords.WebApi.csproj",
-      "packagesPath": "C:\\Users\\MiriS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MiriS\\Desktop\\.NET\\IronSwords\\IronSwords.WebApi\\obj\\",
+      "projectPath": "C:\\Users\\user\\Desktop\\IronSwords\\IronSwords.WebApi\\IronSwords.WebApi.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\IronSwords\\IronSwords.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\MiriS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4608,8 +4608,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\MiriS\\Desktop\\.NET\\IronSwords\\IronSwords.Services\\IronSwords.Services.csproj": {
-              "projectPath": "C:\\Users\\MiriS\\Desktop\\.NET\\IronSwords\\IronSwords.Services\\IronSwords.Services.csproj"
+            "C:\\Users\\user\\Desktop\\IronSwords\\IronSwords.Services\\IronSwords.Services.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\IronSwords\\IronSwords.Services\\IronSwords.Services.csproj"
             }
           }
         }
@@ -4618,6 +4618,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -4662,7 +4667,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -11,8 +11,8 @@ namespace IronSwords.Repositories.Repositories
 {
     public class AccommodationRepository : IAccommodationRepository
     {
-        private readonly IContext _context;
-        public AccommodationRepository(IContext context)
+        private readonly MyDbContext _context;
+        public AccommodationRepository(MyDbContext context)
         {
             _context = context;
         }

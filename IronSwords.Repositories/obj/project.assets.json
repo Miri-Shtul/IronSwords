@@ -4106,19 +4106,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\MiriS\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MiriS\\Desktop\\.NET\\IronSwords\\IronSwords.Repositories\\IronSwords.Repositories.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\IronSwords\\IronSwords.Repositories\\IronSwords.Repositories.csproj",
       "projectName": "IronSwords.Repositories",
-      "projectPath": "C:\\Users\\MiriS\\Desktop\\.NET\\IronSwords\\IronSwords.Repositories\\IronSwords.Repositories.csproj",
-      "packagesPath": "C:\\Users\\MiriS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MiriS\\Desktop\\.NET\\IronSwords\\IronSwords.Repositories\\obj\\",
+      "projectPath": "C:\\Users\\user\\Desktop\\IronSwords\\IronSwords.Repositories\\IronSwords.Repositories.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\IronSwords\\IronSwords.Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\MiriS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4138,6 +4138,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -4175,7 +4180,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

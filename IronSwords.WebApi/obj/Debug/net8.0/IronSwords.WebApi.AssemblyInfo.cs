@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IronSwords.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1c8369b4c35eef9f0c462821dc8e29f179bb50a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d089cbb6bee3d81d36eed51762f85d1c75a1a0f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("IronSwords.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IronSwords.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

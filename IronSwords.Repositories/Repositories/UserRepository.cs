@@ -11,8 +11,8 @@ namespace IronSwords.Repositories.Repositories
 {
     public class UserRepository : IUserRepository
     {
-        private readonly IContext _context;
-        public UserRepository(IContext icontext)
+        private readonly MyDbContext _context;
+        public UserRepository(MyDbContext icontext)
         {
             _context = icontext;
         }

@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace IronSwords.Repositories.Migrations
 {
     [DbContext(typeof(MyDbContext))]
-    [Migration("20240312201511_First-Migration")]
-    partial class FirstMigration
+    [Migration("20240313195043_Initial")]
+    partial class Initial
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

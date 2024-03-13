@@ -12,9 +12,13 @@ namespace IronSwords.Repositories.Entities
     {
         public DbSet<User> Users { get; set; }
         public DbSet<Accommodation> Accommodations { get; set; }
-        protected override void OnConfiguring(DbContextOptionsBuilder options)
+        //protected override void OnConfiguring(DbContextOptionsBuilder options)
+        //{
+        //    options.UseSqlServer("Server=(localdb)\\MSSQLLocalDB;Database=IronSwords;Trusted_Connection=True;");
+        //}
+        public MyDbContext(DbContextOptions<MyDbContext> options) : base(options)
         {
-            options.UseSqlServer("Server=(localdb)\\MSSQLLocalDB;Database=IronSwords;Trusted_Connection=True;");
         }
+
     }
 }
