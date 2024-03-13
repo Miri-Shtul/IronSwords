@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2RXyPTyjDofUgWAhfyLveIsFWIqdkWaAeW4YHNhu6bw=",
+  "Source": "IronSwords.WebApi",
+  "BasePath": "_content/IronSwords.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,6 @@
+@IronSwords.WebApi_HostAddress = http://localhost:5036
+
+GET {{IronSwords.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

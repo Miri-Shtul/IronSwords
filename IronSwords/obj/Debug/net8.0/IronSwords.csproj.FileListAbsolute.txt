@@ -1,0 +1,12 @@
+C:\Users\MiriS\Desktop\.NET\IronSwords\IronSwords\bin\Debug\net8.0\IronSwords.deps.json
+C:\Users\MiriS\Desktop\.NET\IronSwords\IronSwords\bin\Debug\net8.0\IronSwords.dll
+C:\Users\MiriS\Desktop\.NET\IronSwords\IronSwords\bin\Debug\net8.0\IronSwords.pdb
+C:\Users\MiriS\Desktop\.NET\IronSwords\IronSwords\obj\Debug\net8.0\IronSwords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MiriS\Desktop\.NET\IronSwords\IronSwords\obj\Debug\net8.0\IronSwords.AssemblyInfoInputs.cache
+C:\Users\MiriS\Desktop\.NET\IronSwords\IronSwords\obj\Debug\net8.0\IronSwords.AssemblyInfo.cs
+C:\Users\MiriS\Desktop\.NET\IronSwords\IronSwords\obj\Debug\net8.0\IronSwords.csproj.CoreCompileInputs.cache
+C:\Users\MiriS\Desktop\.NET\IronSwords\IronSwords\obj\Debug\net8.0\IronSwords.sourcelink.json
+C:\Users\MiriS\Desktop\.NET\IronSwords\IronSwords\obj\Debug\net8.0\IronSwords.dll
+C:\Users\MiriS\Desktop\.NET\IronSwords\IronSwords\obj\Debug\net8.0\refint\IronSwords.dll
+C:\Users\MiriS\Desktop\.NET\IronSwords\IronSwords\obj\Debug\net8.0\IronSwords.pdb
+C:\Users\MiriS\Desktop\.NET\IronSwords\IronSwords\obj\Debug\net8.0\ref\IronSwords.dll

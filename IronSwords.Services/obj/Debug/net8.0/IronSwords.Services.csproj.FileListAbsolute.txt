@@ -1,0 +1,16 @@
+C:\Users\MiriS\Desktop\.NET\IronSwords\IronSwords.Services\bin\Debug\net8.0\IronSwords.Services.deps.json
+C:\Users\MiriS\Desktop\.NET\IronSwords\IronSwords.Services\bin\Debug\net8.0\IronSwords.Services.dll
+C:\Users\MiriS\Desktop\.NET\IronSwords\IronSwords.Services\bin\Debug\net8.0\IronSwords.Services.pdb
+C:\Users\MiriS\Desktop\.NET\IronSwords\IronSwords.Services\bin\Debug\net8.0\IronSwords.Repositories.dll
+C:\Users\MiriS\Desktop\.NET\IronSwords\IronSwords.Services\bin\Debug\net8.0\IronSwords.Repositories.pdb
+C:\Users\MiriS\Desktop\.NET\IronSwords\IronSwords.Services\obj\Debug\net8.0\IronSwords.Services.csproj.AssemblyReference.cache
+C:\Users\MiriS\Desktop\.NET\IronSwords\IronSwords.Services\obj\Debug\net8.0\IronSwords.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MiriS\Desktop\.NET\IronSwords\IronSwords.Services\obj\Debug\net8.0\IronSwords.Services.AssemblyInfoInputs.cache
+C:\Users\MiriS\Desktop\.NET\IronSwords\IronSwords.Services\obj\Debug\net8.0\IronSwords.Services.AssemblyInfo.cs
+C:\Users\MiriS\Desktop\.NET\IronSwords\IronSwords.Services\obj\Debug\net8.0\IronSwords.Services.csproj.CoreCompileInputs.cache
+C:\Users\MiriS\Desktop\.NET\IronSwords\IronSwords.Services\obj\Debug\net8.0\IronSwords.Services.sourcelink.json
+C:\Users\MiriS\Desktop\.NET\IronSwords\IronSwords.Services\obj\Debug\net8.0\IronSwords.Services.csproj.CopyComplete
+C:\Users\MiriS\Desktop\.NET\IronSwords\IronSwords.Services\obj\Debug\net8.0\IronSwords.Services.dll
+C:\Users\MiriS\Desktop\.NET\IronSwords\IronSwords.Services\obj\Debug\net8.0\refint\IronSwords.Services.dll
+C:\Users\MiriS\Desktop\.NET\IronSwords\IronSwords.Services\obj\Debug\net8.0\IronSwords.Services.pdb
+C:\Users\MiriS\Desktop\.NET\IronSwords\IronSwords.Services\obj\Debug\net8.0\ref\IronSwords.Services.dll
